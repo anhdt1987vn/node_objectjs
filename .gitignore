@@ -1,0 +1,9 @@
+node_modules
+.idea
+testCoverage
+examples/*/*.db
+*.iml
+*.DS_Store
+lib
+profiling
+npm-debug.log*
